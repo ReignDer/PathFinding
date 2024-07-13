@@ -1,0 +1,14 @@
+2.) Optimal route from start to exit with damage
+*********************************
+*EXXXXX..............*..........*
+*****.X..mm...****..............*
+*...*.X...............mmtt.mtttt*
+*...*.X.........tt......*********
+*...t.X....m...........***tttttt*
+******Xm.......***....m***tttttt*
+*XXXXXXmm............mmmmmtttttt*
+*S....................m***tttttt*
+*********************************
+Steps: 17
+Treasures obtained: 0
+Damage: 20hp
