@@ -1,6 +1,5 @@
 # PathFinding
-
-Path find from E to B
-* are impassable tiles
-t are treasures
-m are dmg tiles
+Path find from E to B <br>
+'*' are impassable tiles <br>
+'t' are treasures <br>
+'m' are dmg tiles
